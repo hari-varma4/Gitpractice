@@ -1,4 +1,5 @@
 adding the file this is >> for append vi filename for edit i insert escape :wq! for save and quit it should be
 once commited and it should not be new file file changed i am hari
-file added by hari branch dine by master
+file added by hari branch dine by maste
+shgdsr
 edited in  github in br1 
